@@ -6,7 +6,7 @@ I am a passionate coder with a knack for database management, dedicated to solvi
 
 - **BS Computer Science**
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certifications
 
