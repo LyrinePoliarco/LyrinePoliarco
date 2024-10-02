@@ -1,6 +1,6 @@
 # Hiiiii, I'm Lyrine Poliarco! 👋🖤
 
-I am a passionate coder with a knack for database management, dedicated to solving complex problems and creating elegant solutions. My tech journey began with the BS Computer Science, and I've been on an exciting learning curve ever since.
+I am an enthusiastic learner, passionate about mastering coding and constantly improving my skills. With a strong drive for growth, I'm always exploring new technologies and embracing challenges to become a more skilled developer.
 
 ## Education
 
