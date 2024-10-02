@@ -15,13 +15,12 @@ I am an enthusiastic learner, passionate about mastering coding and constantly i
 - **Programming:**
   - Java
 
-- **Databases:**
+- **Database:**
   - IBM DB2 Cloud
 
-- **Tools:**
+- **Tool:**
   - Lucidchart
-  - Jaspersoft Studio
-  - Eclipse
+ 
  
 
 ## Reach Me
