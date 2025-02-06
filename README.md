@@ -14,6 +14,7 @@ I am an enthusiastic learner, passionate about mastering coding and constantly i
 
 - **Programming:**
   - Java
+  - PHP
 
 - **Database:**
   - IBM DB2 Cloud
