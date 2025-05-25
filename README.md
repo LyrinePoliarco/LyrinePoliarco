@@ -1,31 +1,44 @@
-# Hiiiii, I'm Lyrine Poliarco! 👋🖤
+# 👋 Hi there! I'm **Lyrine Poliarco** 🖤
 
-I am an enthusiastic learner, passionate about mastering coding and constantly improving my skills. With a strong drive for growth, I'm always exploring new technologies and embracing challenges to become a more skilled developer.
+I'm an enthusiastic and dedicated learner passionate about **coding** and continuously honing my skills. I love embracing challenges and exploring new technologies on my journey to becoming a better developer every day.
 
-## Education
+---
 
-- **BS Computer Science**
-  - New Era University
-  - 2022-Present
+## 🎓 Education
 
+- **Bachelor of Science in Computer Science**  
+  📍 *New Era University*  
+  🗓️ *2022 – Present*
 
+---
 
-## Skill Sets
+## 💻 Skills
 
-- **Programming:**
-  - Java
-  - PHP
+### 🧠 Programming Languages
+- Java ☕
+- PHP 🐘
+- TypeScript ⚡
+- CSS 🎨
+- HTML 🌐
 
-- **Database:**
-  - IBM DB2 Cloud
+### 🗄️ Databases
+- IBM DB2 Cloud ☁️
+- Supabase 🔥
 
-- **Tool:**
-  - Lucidchart
- 
- 
+### 🛠️ Tools & Platforms
+- Lucidchart 🧩
+- Figma 🎨
 
-## Reach Me
+---
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lyrine-poliarco-076780191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT0JmIjp%2FRTe7ilwqJjB%2FEw%3D%3D    )
-- **Email:** lyyrineseojoon@gmail.com
+## 📬 Connect with Me
+
+- [🌐 LinkedIn](https://www.linkedin.com/in/lyrine-poliarco-076780191)  
+- 📧 Email: **lyyrineseojoon@gmail.com**
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+---
 
