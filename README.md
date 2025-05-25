@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm **Lyrine Poliarco** 🖤
 
-I'm an enthusiastic and dedicated learner passionate about **coding** and continuously honing my skills. I love embracing challenges and exploring new technologies on my journey to becoming a better developer every day.
+I'm an enthusiastic and dedicated learner passionate about **coding** and continuously honing my skills.  
+I love embracing challenges and exploring new technologies on my journey to becoming a better developer every day.
+
+![Profile Views](https://komarev.com/ghpvc/?username=lyrinepoliarco&color=blue&style=flat&label=Profile%20views)
 
 ---
 
@@ -15,19 +18,25 @@ I'm an enthusiastic and dedicated learner passionate about **coding** and contin
 ## 💻 Skills
 
 ### 🧠 Programming Languages
-- Java ☕
-- PHP 🐘
-- TypeScript ⚡
-- CSS 🎨
-- HTML 🌐
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+</p>
 
 ### 🗄️ Databases
-- IBM DB2 Cloud ☁️
-- Supabase 🔥
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/IBM_DB2_logo.svg" alt="IBM DB2" width="80"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="100"/>
+</p>
 
 ### 🛠️ Tools & Platforms
-- Lucidchart 🧩
-- Figma 🎨
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/>
+  <img src="https://lucid.app/favicon.ico" alt="Lucidchart" width="40"/>
+</p>
 
 ---
 
@@ -39,6 +48,3 @@ I'm an enthusiastic and dedicated learner passionate about **coding** and contin
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
-
