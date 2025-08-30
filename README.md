@@ -3,8 +3,6 @@
 I'm an enthusiastic and dedicated learner passionate about **coding** and continuously honing my skills.  
 I love embracing challenges and exploring new technologies on my journey to becoming a better developer every day.
 
-![Profile Views](https://komarev.com/ghpvc/?username=lyrinepoliarco&color=blue&style=flat&label=Profile%20views)
-
 ---
 
 ## 🎓 Education
