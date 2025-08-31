@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Lyrine Poliarco** 🖤
+#  Hi! I'm **Lyrine Poliarco** 
 
 I'm an enthusiastic and dedicated learner passionate about **coding** and continuously honing my skills.  
 I love embracing challenges and exploring new technologies on my journey to becoming a better developer every day.
